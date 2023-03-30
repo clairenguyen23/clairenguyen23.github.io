@@ -25,10 +25,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://clairenguyen23.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
