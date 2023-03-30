@@ -1,2 +1,4 @@
 all:
-	bundle exec jekyll serve --livereload
+	bundle exec jekyll serve --livereload --incremental
+prettier:
+	npx prettier -w .
