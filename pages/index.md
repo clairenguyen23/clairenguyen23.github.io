@@ -4,6 +4,7 @@
 
 layout: default
 permalink: /
+title: "Claire Nguyen"
 ---
 
 Hello world
